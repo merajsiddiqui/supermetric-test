@@ -1,0 +1,4 @@
+# Ignore file in php project
+
+vendor/
+composer.lock

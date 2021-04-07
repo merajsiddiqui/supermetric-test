@@ -1,0 +1,20 @@
+{
+    "name": "supermterics/sdk",
+    "description": "Supermetrics Stats SDK",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Meraj Ahmad Siddiqui",
+            "email": "merajsiddiqui@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "nesbot/carbon": "^2.46"
+    },
+    "autoload": {
+        "psr-4": {
+            "Supermetrics\\SDK\\": "supermtrics-sdk/"
+        }
+    }
+}
